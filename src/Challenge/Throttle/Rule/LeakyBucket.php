@@ -1,6 +1,7 @@
 <?php
 namespace Challenge\Throttle\Rule;
 
+
 /**
  * A leaky bucket is used for rate limiting / throttle for a rolling period
  * @author Mohanram 
